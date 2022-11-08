@@ -21,7 +21,6 @@ Project Description :
     C.Basic  information on covid-19 i.e; briefing and day to day graph on covid cases.
 
 Primary Azure Technology :
-Azure cognitive service ,QnA Maker, Static Web apps 
+QnA Maker, Static Web apps 
 
-Other Azure Technologies :
-Bot Service
+
